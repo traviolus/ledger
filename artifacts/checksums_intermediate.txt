@@ -1,0 +1,1 @@
+ddd64626d12e3ae368794b17da75c5cb56d6897bae4655668e7e453b29ae0f4d  /target/wasm32-unknown-unknown/release/ledger.wasm
